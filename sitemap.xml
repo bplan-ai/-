@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 배포 후 입력: 아래 https://[배포 후 입력]/ 부분을 실제 홈페이지 주소로 한 번에 바꾸세요 (찾아 바꾸기) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://[배포 후 입력]/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://[배포 후 입력]/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://[배포 후 입력]/expert.html</loc><priority>0.8</priority></url>
+  <url><loc>https://[배포 후 입력]/products.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/services.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/car-shampoo.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/car-care.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/fleet-supply.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/steel.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/paper.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/glass.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/boiler.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/water.html</loc><priority>0.9</priority></url>
+  <url><loc>https://[배포 후 입력]/etc.html</loc><priority>0.8</priority></url>
+  <url><loc>https://[배포 후 입력]/rnd.html</loc><priority>0.8</priority></url>
+  <url><loc>https://[배포 후 입력]/gallery.html</loc><priority>0.6</priority></url>
+  <url><loc>https://[배포 후 입력]/faq.html</loc><priority>0.8</priority></url>
+  <url><loc>https://[배포 후 입력]/contact.html</loc><priority>0.8</priority></url>
+</urlset>
